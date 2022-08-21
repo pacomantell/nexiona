@@ -14,6 +14,6 @@ run_server.bat runs all the python scripts
 
 ## Dynamic
 
-When starts the http server (localhost/8080), just introduce an url in the browser.
+When starts the http server (localhost/8080), select one of the three pages for try the events.
 
-Then, go to localhost/8000 (the API port) and go to the views endpoint or total_views endpoint.
+Then, go to views by url or total views to see the two endpoints created by the api.
